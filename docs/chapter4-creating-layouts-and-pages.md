@@ -1,7 +1,5 @@
 # Chapter 4: Creating Layouts and Pages
 
-## 핵심 요약
-
 - **중첩 라우팅**
   - Next.js는 파일 시스템 라우팅을 사용한다. 폴더가 곧 라우트 세그먼트(route segment)이며 URL 세그먼트와 1:1로 매핑된다.
   - 각 라우트에 접근 가능하려면 해당 폴더 안에 `page.tsx`가 필요하다. 예: `/app/dashboard/page.tsx` → `/dashboard`.

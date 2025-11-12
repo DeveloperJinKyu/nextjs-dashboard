@@ -1,7 +1,5 @@
 # Chapter 3: Optimizing Fonts and Images
 
-## 핵심 요약
-
 - **폰트 최적화가 필요한 이유**
   - 웹폰트 로딩 중 시스템 폰트로 먼저 그렸다가 사용자 정의 폰트로 교체되면 Cumulative Layout Shift(CLS)가 발생한다.
   - CLS는 텍스트의 크기·자간·행간 변화로 주변 레이아웃을 밀어 UI가 흔들리는 체감이 크다.

@@ -1,7 +1,5 @@
 # Chapter 5: Navigating Between Pages
 
-## 핵심 요약
-
 - **next/link**
   - 내부 페이지 간 이동은 `<a>` 대신 `next/link`의 `<Link>`를 사용해 클라이언트 사이드 내비게이션을 수행한다.
   - 페이지 전환 시 전체 페이지 새로고침이 발생하지 않아 네이티브 앱과 유사한 매끄러운 UX를 제공한다.

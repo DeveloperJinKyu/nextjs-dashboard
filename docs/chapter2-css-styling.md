@@ -1,7 +1,5 @@
 # Chapter 2: CSS Styling
 
-## 핵심 요약
-
 ### Global Styles
 
 - 이 프로젝트에서는 `/app/ui/global.css` 파일을 사용해 애플리케이션의 모든 라우트에 적용되는 CSS 규칙을 추가할 수 있다.
