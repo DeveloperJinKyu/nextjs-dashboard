@@ -1,4 +1,4 @@
-# Chapter 1: 시작하기
+# Chapter 1: Getting Started
 
 ### pnpm이 npm보다 빠르고 효율적이다
 
