@@ -75,6 +75,6 @@
 
 ## 참고 링크
 
-- Next.js Learn: Optimizing Fonts and Images — `https://nextjs.org/learn/dashboard-app/optimizing-fonts-images`
+- [Next.js 공식 문서 - Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 
 
